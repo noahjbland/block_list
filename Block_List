@@ -2,5 +2,8 @@
 # git commit -m "Update"
 # git push
 
+127.0.0.1 localhost
+::1 localhost
+
 127.0.0.1 youtube.com
 127.0.0.1 instagram.com
